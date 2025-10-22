@@ -1,0 +1,9 @@
+transformers
+torch
+openai
+flask
+pandas
+numpy
+sentence-transformers
+faiss-cpu  # or 'faiss-gpu' if you're using GPU
+spacy
